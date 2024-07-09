@@ -33,9 +33,6 @@ QUESTED is an innovative educational platform designed to engage students throug
 - MySQL
 - Python
 
-## Prototype
-Explore our [Figma Prototype](https://www.figma.com/file/PfpGE51PX7aKGrWZw1rMBg/Untitled?type=design&node-id=0%3A1&mode=design&t=0N8gHgiYXTINt7Sh-1) to visualize the design and functionality of QUESTED.
-
 ## Alignment with National Education Policy 2020
 QUESTED addresses several key aspects of the NEP 2020:
 
