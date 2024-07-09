@@ -25,6 +25,5 @@ The Leaderboard and Profile section allows users to track their progress and com
 ## 5. Login
 The login page is simple and secure, allowing users to easily access their accounts. It includes fields for username and password, along with options for password recovery and account creation.
 
-![Login](C:\Users\Amin\OneDrive\Desktop\quested\Screenshot 2024-07-09 123714.png)
-
+![Login](path/to/login.png)
 ---
